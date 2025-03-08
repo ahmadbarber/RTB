@@ -19,24 +19,24 @@ a {
 }
 @font-face {
   font-family: "Degular-SemiBold";
-  src: url("https://anima-uploads.s3.amazonaws.com/projects/63b3af4542fa7092f6908c9d/fonts/degular-semibold.otf")
-    format("opentype");
+  src: url("https://rockthebells.cdn.prismic.io/rockthebells/Z8sKqBsAHJWomPBD_Degular-Semibold.woff")
+    format("woff");
 }
 
 @font-face {
   font-family: "Compacta Com-Regular";
-  src: url("https://anima-uploads.s3.amazonaws.com/projects/61dd7503a5b4086567ab74da/fonts/compactastd.otf")
-    format("opentype");
+  src: url("https://rockthebells.cdn.prismic.io/rockthebells/Z8sJxxsAHJWomPAN_compacta.woff")
+    format("woff");
 }
 
 @font-face {
   font-family: "Compacta Com-Bold";
-  src: url("https://anima-uploads.s3.amazonaws.com/projects/61dd7503a5b4086567ab74da/fonts/compactastd-bold.otf")
-    format("opentype");
+  src: url("https://rockthebells.cdn.prismic.io/rockthebells/Z8sJxxsAHJWomPAN_compacta.woff")
+    format("woff");
 }
 
 @font-face {
   font-family: "Degular-Regular";
-  src: url("https://anima-uploads.s3.amazonaws.com/5e7abf65eb876cc1084e5bac/.44510.otf")
-    format("opentype");
+  src: url("https://rockthebells.cdn.prismic.io/rockthebells/Z8sKqBsAHJWomPBD_Degular-Semibold.woff")
+    format("woff");
 }
